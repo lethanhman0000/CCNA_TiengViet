@@ -1,0 +1,7 @@
+Bai 1: Co ban ve mang 9-8-2024
+Mang giup cac thiet bi trong internet co the lien ket duoc voi nhau. De cac thiet bi co the giao tiep voi nhau, thi phai can co dia chi, no duoc goi la dia chi IP. Dia chi IP gom 2 loai, la dia chi IPv4 ( Duoc su dung
+pho bien nhat hien nay ). Tiep theo la dia chi IPv6 ( tuy cung duoc dung nhieu nhung khong duoc pho bien nhu dia chi IPv4 ). 
+cach ma may tinh nhin thay dia chi IP no khac voi cach con nguoi nhin thay, may tinh chi thay duoc dia chi IP la nhung he so nhi phan 11001010, nhung con nguoi khong the lam viec voi nhung day so nhu vay, nen nguoi ta
+da doi tu so nhi phan thanh he so thap phan cho de nhin va lam viec:  11000000.10101000.00000001.00000001 --> 192.168.1.1
+                                                                      ( may tinh nhin thay )                  ( con nguoi )
+Vi dia chi IPv4 la dia chi phan cap
