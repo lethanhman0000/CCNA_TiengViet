@@ -4,4 +4,5 @@ pho bien nhat hien nay ). Tiep theo la dia chi IPv6 ( tuy cung duoc dung nhieu n
 cach ma may tinh nhin thay dia chi IP no khac voi cach con nguoi nhin thay, may tinh chi thay duoc dia chi IP la nhung he so nhi phan 11001010, nhung con nguoi khong the lam viec voi nhung day so nhu vay, nen nguoi ta
 da doi tu so nhi phan thanh he so thap phan cho de nhin va lam viec:  11000000.10101000.00000001.00000001 --> 192.168.1.1
                                                                       ( may tinh nhin thay )                  ( con nguoi )
-Vi dia chi IPv4 la dia chi phan cap
+Vi dia chi IPv4 la dia chi phan cap ...
+- Con tiep ( day chi la demo )
